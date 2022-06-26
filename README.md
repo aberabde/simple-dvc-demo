@@ -17,5 +17,13 @@
 
    git add .
    git commit -m " fisrt commit"
-   
+   onliner updates for readme 
+   git add. && git commit -m "update Readme.md"
+  23 git remote add origin https://github.com/aberabde/simple-dvc-demo.git
+  24 git branch -M main
+  25 git push -u origin main
+
+
+
+
 
